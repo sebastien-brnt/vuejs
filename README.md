@@ -21,6 +21,8 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
   <h3 align="center">Special Sponsor</h3>
 </p>
 
+<p>Mon changement est ici, Sébastien</p>
+
 <p align="center">
   <a target="_blank" href="https://github.com/appwrite/appwrite">
   <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg" width="300">
@@ -32,6 +34,206 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
     <img alt="sponsors" src="https://sponsors.vuejs.org/sponsors.svg?v2">
   </a>
 </p>
+<<<<<<< HEAD
+=======
+  
+<!--special end-->
+
+<h3 align="center">Platinum Sponsors</h3>
+
+<!--platinum start-->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://vehikl.com/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://retool.com/?utm_source=sponsor&utm_campaign=vue" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/retool.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://passionatepeople.io/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.storyblok.com" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+  </tbody>
+</table>
+<!--platinum end-->
+
+<!--special-china start-->
+<h3 align="center">Platinum Sponsors (China)</h3>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="http://www.dcloud.io/?hmsr=vuejsorg&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">
+          <img width="177px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dcloud.gif">
+        </a>
+      </td>
+    </tr><tr></tr>
+  </tbody>
+</table>
+<!--special-china end-->
+
+<h3 align="center">Gold Sponsors</h3>
+
+<!--gold start-->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.vuemastery.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuemastery.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://laravel.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/laravel.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://htmlburger.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/html_burger.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.frontenddeveloperlove.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/frontendlove.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://onsen.io/vue/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/onsen_ui.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://neds.com.au/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/neds.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://vuejobs.com/?ref=vuejs" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuejobs.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://tidelift.com/subscription/npm/vue" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tidelift.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.firesticktricks.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/firestick_tricks.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://intygrate.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/intygrate.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://en.shopware.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.vpnranks.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpnranks.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.bacancytechnology.com/hire-vuejs-developer" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.bestvpn.co/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.y8.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/y8.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://js.devexpress.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devexpress.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://fastcoding.jp/javascript/ " target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://usave.co.uk/utilities/broadband" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.foo.software" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/foo.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://flatlogic.com/templates" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/flatlogic_templates.svg?sanitize=true">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://moovweb.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/moovweb.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://vpn-review.com/netflix-vpn" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpn_review.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+  </tbody>
+</table>
+<!--gold end-->
+
+<h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
+
+<h4 align="center">Platinum</h4>
+
+<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
+<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
+
+<h4 align="center">Gold</h4>
+
+<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/0/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/1/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/2/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/2/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/3/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/3/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/4/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/4/avatar.svg?sanitize=true" height="60px"></a>
+>>>>>>> parent of 635e669f (chore: update sponsors [ci skip] (#11620))
 
 ---
 
